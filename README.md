@@ -3,8 +3,15 @@
 
 ## 安裝（Installation）
 ```bash
-pip install BlankSpaceBaby
+pip install blankspacebaby
 ```
+
+## 使用（Usage）
+```bash
+blankspacebaby -l zh
+```
+You will see an interactive prompt. Type in the text you want to typeset and press Control + D. The typeset text will be printed out.
+
 
 ## 準則（Guidelines）
 - 中英文之間需要空格（There should be a space between Chinese and English）
